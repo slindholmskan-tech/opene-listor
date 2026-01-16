@@ -1,8 +1,1 @@
-
-{
-  "items": [
-    { "namn": "Alternativ A" },
-    { "namn": "Alternativ B" },
-    { "namn": "Alternativ C" }
-  ]
-}
+[{"key":"123","value":"Alternativ 1"},{"key":"456","value":"Alternativ 2"},{"key":"789","value":"Alternativ 3"}]
