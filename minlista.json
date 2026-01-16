@@ -1,7 +1,6 @@
 
-{
-  "items": [
-    { "namn": "Alternativ A", },
-    { "namn": "Alternativ B", },
-    { "namn": "Alternativ C", }
-  ]
+[
+  { "namn": "Alternativ A" },
+  { "namn": "Alternativ B" },
+  { "namn": "Alternativ C" }
+]
